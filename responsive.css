@@ -1,0 +1,140 @@
+@media (width > 768px){
+    .imgsection{
+        grid-template-columns: auto auto auto auto auto auto;
+        column-gap: 24px;
+    }
+    .imgbox1 img{
+        width: 110px;
+        height: 110px;
+    }
+    .imgbox2 img{
+        width: 110px;
+        height: 110px;
+    }
+    .imgbox3 img{
+        width: 110px;
+        height: 110px;
+    }
+    .imgbox4 img{
+        width: 110px;
+        height: 110px;
+    }
+    .imgbox5 img{
+        width: 110px;
+        height: 110px;
+    }
+    .imgbox6 img{
+        width: 110px;
+        height: 110px;
+    }
+    .buttonDiv{
+        display: flex;
+        flex-direction: row;
+    }
+    .but2{
+        margin-top: 0;
+        margin-left: 16px;
+    }
+    .imgDiv{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .textbox2{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    footer{
+        width: 768px;
+        height: 428px;
+        background-image: url(./assets/tablet\ background.png);
+    }
+    h1{
+        width: 339px;
+    }
+    h2{
+        width: 457px;
+    }
+    h6{
+        width: 573px;
+    }
+}
+
+
+@media (width > 1440px){
+    .divnone{
+        display: inline-flex;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+        margin-top: 90px;
+    }
+    .textbox1{
+        display: none;
+    }
+    .textbox2{
+        margin-top: 66px;
+
+    }
+    footer{
+        width: 1440px;
+        height: 308px;
+        display: flex;
+        flex-direction: row;
+        background-image: url(./assets/desktopback.png);
+    }
+    p{
+        margin: 200px 0 200px 100px;
+        width: 350px;
+        color: #FAFAFA;
+        font-family: 'Red Hat Display';
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 44px;
+    }
+    h6{
+        margin: 200px 92px 200px 125px;
+        width: 350px;
+        color: #FAFAFA;
+        font-family: 'Red Hat Display';
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 26px;
+    }
+    .but3{
+        margin: 180px 165px 200px 90px;
+    }
+    .imgsection{
+        grid-template-columns: auto auto auto auto auto auto auto;
+        column-gap: 24px;
+    }
+    .girl{
+        width: 255px;
+        height: 242px;
+    }
+    .grannies{
+        width: 255px;
+        height: 242px;
+    }
+    .laptopman{
+        width: 255px;
+        height: 242px;
+    }
+    .blackman{
+        width: 255px;
+        height: 242px;
+    }
+    .imgbox2{
+        margin-right: 24px;
+    }
+    .imgbox4{
+        margin-right: 24px;
+    }
+    .imgbox6{
+        margin-right: -27px;
+    }
+}
