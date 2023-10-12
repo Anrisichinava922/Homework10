@@ -46,7 +46,6 @@
         text-align: center;
     }
     footer{
-        width: 768px;
         height: 428px;
         background-image: url(./assets/tablet\ background.png);
     }
@@ -79,7 +78,6 @@
 
     }
     footer{
-        width: 1440px;
         height: 308px;
         display: flex;
         flex-direction: row;

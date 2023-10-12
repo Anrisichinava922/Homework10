@@ -309,6 +309,7 @@ footer{
     height: 428px;
     background: #4D96A9;
     background-image: url(./assets/backgroundgirl.png);
+    background-repeat: no-repeat;
 }
 p{
     width: 327px;
