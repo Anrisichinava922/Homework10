@@ -21,15 +21,13 @@ header{
     display: none;
 }
 .imgsection{
+    width: 100%;
     display: grid;
     grid-template-columns: auto auto auto auto auto auto auto;
-    column-gap: 16.16px;
+    column-gap: 15.24px;
 }
 .imgbox1{
     margin-top: 81.77px;
-}
-.img1{
-    margin-bottom: 14.14px;
 }
 .imgbox2{
     margin-top: 54px;
@@ -37,30 +35,56 @@ header{
 .imgbox3{
     margin-top: 81.77px;
 }
-.img3{
-    margin-bottom: 14.14px;
-}
 .imgbox4{
     margin-top: 54px;
-
 }
 .imgbox5{
     margin-top: 81.77px;
 }
+.imgbox6{
+    margin-top: 54px;
+}
+.img1{
+    margin-bottom: 14.14px;
+}
+.img3{
+    margin-bottom: 14.14px;
+    border-radius: 55.558px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.img4{
+    border-radius: 55.558px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
 .img5{
     margin-bottom: 14.14px;
+    border-radius: 55.558px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.img6{
+    border-radius: 55.558px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
 .img7{
     margin-bottom: 14.14px;
+    border-radius: 55.558px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.img8{
+    border-radius: 55.558px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
 .img9{
     margin-bottom: 14.14px;
+    border-radius: 55.558px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.img10{
+    border-radius: 55.558px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
 .img11{
     margin-bottom: 14.14px;
-}
-.imgbox6{
-    margin-top: 54px;
 }
 .textbox1{
     display: flex;
