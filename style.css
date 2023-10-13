@@ -23,7 +23,7 @@ header{
 .imgsection{
     width: 100%;
     display: grid;
-    grid-template-columns: auto auto auto auto auto auto auto;
+    grid-template-columns: auto auto auto auto auto auto;
     column-gap: 15.24px;
 }
 .imgbox1{
